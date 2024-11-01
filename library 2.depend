@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1672410402 source:c:\users\mouha\onedrive\desktop\prog\library 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
